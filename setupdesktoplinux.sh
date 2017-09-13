@@ -13,3 +13,5 @@ cd gnome-shell-simple-dock
 chmod 744 install.sh
 ./install.sh
 
+#install extension to change bing wallpaper every day 
+git clone https://github.com/neffo/bing-wallpaper-gnome-extension.git $HOME/.local/share/gnome-shell/extensions/BingWallpaper@ineffable-gmail.com
